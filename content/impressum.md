@@ -1,5 +1,5 @@
 ---
-title: "Impressum"
+title: "Impressum - Yoga mit Agi - Hatha-Vinyasa-Yoga in Neukeferloh"
 layout: "background"
 robots: "noindex"
 

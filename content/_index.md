@@ -1,4 +1,6 @@
 ---
+title: "Yoga mit Agi - Hatha-Vinyasa-Yoga in Neukeferloh"
+description: "Hatha-Vinyasa-Yoga in Neukeferloh: Fließende, kraftvolle Yogastunden in kleinen Gruppen – für Anfänger, Wiedereinsteiger und Geübte."
 robots: "all"
 ---
 
