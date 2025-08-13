@@ -3,28 +3,8 @@ robots: "all"
 ---
 
 
-einmal in md
+![Ruhige Athmosphäre im lichten Wald, um die innere Ruhe zu finden.](/homepage.1920.jpg)
 
-![Yoga Homepage](/homepage.1920.jpg)
-
-als shortcode
-{{< figure
-    src="/homepage.1920.jpg"
-    alt="Abstract purple artwork"
-    caption="Caption"
-    >}}
-
-
-jetzt in html 
-
-<img src="/homepage.1920.jpg" alt="Yoga Homepage" style="width:1600px; max-width:1200px;">
-
-als carousel
-
-{{< carousel images="images/hero-yoga.png,images/hero-yoga.png" >}}
-
-mit src
-{{< carousel src="background-pine.png,background-pink-pine.png,background-pink.png,background.png" >}}
 
 # Hatha-Vinyasa-Yoga
 ## Was dich erwartet
@@ -45,10 +25,11 @@ Leonhard-Stadler-Straße 18
 85630 Neukeferloh
 
 ## Kosten
-| 5 x 90 Min.                          | 75,00 Euro   |
-| Einzelstunde (Drop-In)* (90 Min.)    | 17,00 Euro   |
 
-*falls freie Plätze vorhanden sind
+5 x 90 Min.: 75,00 Euro<p/>
+Einzelstunde (Drop-In)[¹] (90 Min.): 17,00 Euro
+
+[¹]: falls freie Plätze vorhanden sind
 
 ## Wer
 Für Anfänger, Wiedereinsteiger und Geübte.

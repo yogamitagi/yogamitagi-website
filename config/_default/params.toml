@@ -6,7 +6,7 @@
 # https://blowfish.page/docs/configuration/#theme-parameters
 
 colorScheme = "blowfish" # valid options: Blowfish, Llama, LlamaDark, LlamaLight, LlamaBlue, LlamaGreen, LlamaPurple, LlamaRed, LlamaYellow
-defaultAppearance = "dark" # valid options: light or dark
+defaultAppearance = "light" # valid options: light or dark
 autoSwitchAppearance = false
 
 enableA11y = false
