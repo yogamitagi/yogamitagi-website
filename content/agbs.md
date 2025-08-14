@@ -1,5 +1,6 @@
 ---
-title: "Allgemeine Geschäftsbedingungen - Yoga mit Agi - Hatha-Vinyasa-Yoga in Neukeferloh"
+title: "Allgemeine Geschäftsbedingungen"
+description: "Allgemeine Geschäftsbedingungen - Yoga mit Agi - Hatha-Vinyasa-Yoga in Neukeferloh"
 layout: "background"
 robots: "noindex"
 ---
