@@ -15,10 +15,10 @@
 #   pageRef = "kurse"
 #   weight = 10
 
-# [[main]]
-#   name = "Über mich"
-#   pageRef = "uebermich"
-#   weight = 10
+[[main]]
+  name = "Über mich"
+  pageRef = "uebermich"
+  weight = 10
 
 #[[main]]
 #  name = "example sub-menu 1"

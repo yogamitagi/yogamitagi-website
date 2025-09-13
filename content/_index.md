@@ -12,7 +12,10 @@ robots: "all"
 ### Was dich erwartet
 Wir üben fließend und kraftvoll, gleichzeitig ruhig und präzise – in kleinen Gruppen, in denen Jede*r gesehen wird.
 
-Es geht nicht um Leistung, sondern darum, dich selbst besser zu spüren, deine Kraft und Flexibilität zu verbessern und deinen Geist zur Ruhe kommen zu lassen – egal, ob du ganz neu anfängst, wieder einsteigst oder schon länger praktizierst.
+Es geht nicht um Leistung, sondern darum, dich selbst besser zu spüren, deine Kraft und Flexibilität zu verbessern und deinen Geist zur Ruhe kommen zu lassen – egal, ob du deine ersten Yoga-Erfahrung vertiefen möchtest, wieder einsteigst oder schon länger praktizierst.
+
+Weitere Informationen zu mir und meiner Ausbildung findest du [hier]({{< relref "uebermich.md" >}}).
+
 
 ### Wann
 **Freitag 8:45 bis 10:15 Uhr**
@@ -34,7 +37,7 @@ Einzelstunde (Drop-In)[¹] (90 Min.): 17,00 Euro
 [¹]: falls freie Plätze vorhanden sind
 
 ### Wer
-Für Anfänger, Wiedereinsteiger und Geübte.
+Für Anfänger mit ersten Yoga-Erfahrungen, Wiedereinsteiger und Geübte.
 
 Bitte melde dich vorab an – **die Plätze sind begrenzt.**
 
