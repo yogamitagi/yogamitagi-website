@@ -18,7 +18,7 @@ Es geht nicht um Leistung, sondern darum, dich selbst besser zu spüren, deine K
 **Freitag 8:45 bis 10:15 Uhr**
 (nicht in den Ferien und an Feiertagen)
 
-Start: 19.09.2025
+Start: 10.10.2025
 
 ### Wo
 **Turnhalle Neukeferloh / Kleiner Gymnastikraum**
