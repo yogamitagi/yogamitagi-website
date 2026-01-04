@@ -30,3 +30,5 @@ Die Ausbildung beinhaltete unter anderem folgende Bereiche:
 * Yogatherapie und Pathologie
 
 Dieses schöne Gefühl, sich in seinem Körper wohl zu fühlen, dankbar dafür zu sein, dass unser Körper uns Tag für Tag durchs Leben trägt – und das möglichst schmerzfrei, auch im zunehmenden Alter! Dieses Gefühl und diese wundervollen Möglichkeiten des Yoga möchte ich gerne weitergeben und mit Dir teilen! 
+
+Namasté
