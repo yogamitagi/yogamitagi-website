@@ -18,32 +18,23 @@ Weitere Informationen zu mir und meiner Ausbildung findest du [hier]({{< relref 
 
 
 ### Wann
-**Freitag 8:45 bis 10:15 Uhr**
+**Dienstag 19:20 bis 20:50 Uhr**
 (nicht in den Ferien und an Feiertagen)
 
-Start: 10.10.2025
+13.01.2026 bis 24.02.2026
 
 ### Wo
-**Turnhalle Neukeferloh / Kleiner Gymnastikraum**
+**Physiocenter Andreas Peilstöcker**
 
-Leonhard-Stadler-Straße 18
-85630 Neukeferloh
+Zehntfeldstraße 240b
+81825 München
+(Eingang Hugo-Lang Bogen)
 
-### Kosten
+### Anmeldung und Kosten
 
-5 x 90 Min.: 75,00 Euro<p/>
-Einzelstunde (Drop-In)[¹] (90 Min.): 17,00 Euro
-
-[¹]: falls freie Plätze vorhanden sind
+siehe https://www.info-ayurveda-yoga.de/yoga/faszientraining-mit-yoga
 
 ### Wer
 Für Anfänger mit ersten Yoga-Erfahrungen, Wiedereinsteiger und Geübte.
 
 Bitte melde dich vorab an – **die Plätze sind begrenzt.**
-
-### Anmeldung
-yoga.neukeferloh@gmail.com
-
-Schreib mir einfach eine Nachricht; ich freue mich drauf.
-
-Weitere Details zum Ablauf und zur Zahlung folgen nach Anmeldung per Mail.
